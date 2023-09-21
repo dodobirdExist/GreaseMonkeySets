@@ -10,6 +10,12 @@ class LocationStorageCommunication extends CrossTagCommunicationBase {
     override use(context: AppCore): void {
         //
     }
+    override on(evtName: string, fn: (...args: any[]) => any): void {
+        //
+    }
+    override shoot(evtName: string): void {
+        //
+    }
 }
 
 export { LocationStorageCommunication };
