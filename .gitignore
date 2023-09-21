@@ -1,0 +1,8 @@
+*.pdf
+node_modules/
+node_libraries/
+*.log
+*.svg
+*.jpeg
+*.jpg
+*.png
