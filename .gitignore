@@ -6,3 +6,4 @@ node_libraries/
 *.jpeg
 *.jpg
 *.png
+dist/*.html
