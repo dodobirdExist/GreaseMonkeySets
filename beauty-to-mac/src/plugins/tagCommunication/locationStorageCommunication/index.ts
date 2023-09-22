@@ -5,9 +5,16 @@ import { CrossTagCommunicationBase } from "../communicationBase/index.js";
 
 class LocationStorageCommunication extends CrossTagCommunicationBase {
     constructor() {
+        // cross tag communication.
         super('CTC');
     }
     override use(context: AppCore): void {
+        //
+    }
+    override on(evtName: string, fn: (...args: any[]) => any): void {
+        //
+    }
+    override shoot(evtName: string): void {
         //
     }
 }

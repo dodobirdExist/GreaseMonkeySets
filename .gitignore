@@ -1,9 +1,11 @@
-*.pdf
-node_modules/
-node_libraries/
+**/*.pdf
+**/node_modules/
+**/node_libraries/
+.vscode/
 *.log
 *.svg
 *.jpeg
 *.jpg
 *.png
-dist/*.html
+*.py
+**/dist/**/*.html
