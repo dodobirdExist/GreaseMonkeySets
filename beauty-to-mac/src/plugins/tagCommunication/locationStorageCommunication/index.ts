@@ -5,6 +5,7 @@ import { CrossTagCommunicationBase } from "../communicationBase/index.js";
 
 class LocationStorageCommunication extends CrossTagCommunicationBase {
     constructor() {
+        // cross tag communication.
         super('CTC');
     }
     override use(context: AppCore): void {
