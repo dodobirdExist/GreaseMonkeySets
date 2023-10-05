@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         SassDocFormat
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/dodobirdExist/GreaseMonkeySets
 // @version      0.1.0
 // @icon         https://www.sass.hk/favicon.ico
 // @description  调整Sass文档的侧边栏样式

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         链接跳转增强
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/dodobirdExist/GreaseMonkeySets
 // @version      0.0.1
 // @description  适用于知乎，掘金增强
 // @icon         https://static.zhihu.com/heifetz/favicon.ico
