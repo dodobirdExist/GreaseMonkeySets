@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         百度网盘播放增强;
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/dodobirdExist/GreaseMonkeySets
 // @version      0.1.0
 // @description  try to take over the world!
 // @author       You

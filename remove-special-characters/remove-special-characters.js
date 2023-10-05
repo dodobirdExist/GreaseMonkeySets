@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         移除混入字符
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/dodobirdExist/GreaseMonkeySets
 // @version      0.1
 // @description  try to take over the world!
 // @author       You

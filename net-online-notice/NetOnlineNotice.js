@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         网络在线监视器
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/dodobirdExist/GreaseMonkeySets
 // @version      0.1.3
 // @description  检查网络在线情况
 // @author       CloundMark
